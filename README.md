@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-<!--
+[gif-prueba](https://user-images.githubusercontent.com/75494927/170114143-1823ea46-3212-4855-b84b-fb75c7797130.gif)
+
+<!--!
 **ivalani/ivalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...![Uploading gif-prueba.gif…]()
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
