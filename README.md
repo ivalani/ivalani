@@ -2,6 +2,16 @@
 
 ![R](https://user-images.githubusercontent.com/75494927/170114885-9863fa81-142f-4c9b-ad86-ea2a73826139.gif)
 
+<!--! contador de vistas -->
+
+# <p align="center">ivalani Amador</p>
+<p align="center">
+  <a href="https://github.com/ivalani/ivalani"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Ingenieria Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/KeyCuevasMelgarejo/CONTADOR-VISITAS-GITHUB_">
+    <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
+</p>
 <!--!
 **ivalani/ivalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
