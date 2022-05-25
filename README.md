@@ -6,7 +6,7 @@
 
 # <p align="center">ivalani Amador</p>
 <p align="center">
-  <a href="https://github.com/ivalani/ivalani"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=Ingenieria Sistemas+Computacionales;Desarrollador+Full+Stack;Desarrollador+Mobile;Windows+%26+Linux+App+Developer;Constantemente+Aprendiendo;Autodidacta"></a>
+  <a href="https://github.com/ivalani/ivalani"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=ITC+in+training+at+ITESM;Windows+%26+Linux+App+Developer"></a>
 </p>
 <p align="center">
   <a href="https://github.com/KeyCuevasMelgarejo/CONTADOR-VISITAS-GITHUB_">
