@@ -4,7 +4,7 @@
 
 <!--! contador de vistas -->
 
-# <p align="center">ivalani Amador</p>
+# <p align="center">IW - SKB</p>
 <p align="center">
   <a href="https://github.com/ivalani/ivalani"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=ITC+-+ITESM;Windows+%26+Linux+App+Developer;Cybersecurity+in+process"></a>
 </p>
