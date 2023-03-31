@@ -12,6 +12,8 @@
   <a href="https://github.com/KeyCuevasMelgarejo/CONTADOR-VISITAS-GITHUB_">
     <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivalani)](https://github.com/ivalani/github-readme-stats)
 <!--!
 **ivalani/ivalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
