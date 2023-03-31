@@ -13,7 +13,15 @@
     <img alt="Si la etiqueta no se ve, dale F5 actualizar la página" title="Visitas Perfil GitHub" src="https://github-contador-visitas.herokuapp.com/"/></a>
 </p>
 
+<!--! GitHub individual stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivalani)](https://github.com/ivalani/github-readme-stats)
+
+Private: 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivalani&count_private=true) 
+-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivalani&count_private=true&theme=tokyonight) 
+
 <!--!
 **ivalani/ivalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
