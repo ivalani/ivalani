@@ -7,6 +7,8 @@
   <a href="https://github.com/ivalani/ivalani"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=ITC+-+ITESM;Windows+%26+Linux+App+Developer;Cybersecurity+in+process"></a>
 </p>
 
+
+ # 📊 GitHub Stats
 <!--! Individual stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivalani)](https://github.com/ivalani/github-readme-stats)
 
@@ -27,3 +29,13 @@ Private:
 If you want to add your stats to your profile or see more options, check this out: https://github.com/anuraghazra/github-readme-stats
 --> 
 
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ivalani&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ivalani&theme=vision-friendly-dark&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivalani&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ivalani&theme=dracula)](https://git.io/streak-stats)
+<!--  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ivalani&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4) -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivalani&show_icons=true&locale=en" alt="anshtripathi079" /></p> -->
+<div>
