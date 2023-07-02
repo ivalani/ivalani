@@ -7,6 +7,13 @@
   <a href="https://github.com/ivalani/ivalani"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=ITC+-+ITESM;Windows+%26+Linux+App+Developer;Cybersecurity+in+process"></a>
 </p>
 
+<!--! you can use the "counter viewers" by: https://github.com/antonkomarev/github-profile-views-counter -->  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivalani&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="ivalani" /> </p>
+
+<!--!nueva tipografia 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&width=435&lines=Web+Developer+;Programmer)](https://git.io/typing-svg)
+--> 
+
 
  # 📊 GitHub Stats
 <!--! Individual stats
