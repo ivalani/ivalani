@@ -39,10 +39,22 @@ If you want to add your stats to your profile or see more options, check this ou
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=ivalani&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ivalani&theme=vision-friendly-dark&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivalani&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivalani&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  <a href="https://soundcloud.com/key-cuevas-melgarejo"><img alt="Soundcloud" title="Mi Musica" src="https://shields.io/badge/-Soundcloud-critical.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"></a>
+-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ivalani&theme=dracula)](https://git.io/streak-stats)
 <!--  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ivalani&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4) -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivalani&show_icons=true&locale=en" alt="anshtripathi079" /></p> -->
 <div>
+
+>:mailbox_with_mail: &nbsp; contact me at:
+<p align="center">
+  <a href="https://discord.com"><img alt="Discord" title="Mi Servidor" src="https://shields.io/badge/-DISCORD-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://itch.io"><img alt="Unity" title="Game" src="https://shields.io/badge/-Itch.io-black.svg?&style=for-the-badge&logo=unity&logoColor=white"></a>
+  <a href="www.linkedin.com/in/iwalani-a-2310b9276"><img alt="LinkedIn" title="Perfil Profesional" src="https://shields.io/badge/-LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.researchgate.net"><img alt="Researchgate" title="Mis Investigaciones" src="https://shields.io/badge/-Researches-00ccbb.svg?&style=for-the-badge&logo=researchgate&logoColor=white"></a>
+  <a href="https://ko-fi.com"><img alt="Ko-fi" title="Contribuye" src="https://shields.io/badge/-BUY%20ME%20A%20COFFEE-CC2735.svg?&style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+</p>
