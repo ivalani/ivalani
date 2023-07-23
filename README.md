@@ -2,32 +2,28 @@
 
 ![R](https://user-images.githubusercontent.com/75494927/170114885-9863fa81-142f-4c9b-ad86-ea2a73826139.gif)
 
-# <p align="center">SKB</p>
+ <h1 align="center">SKB</h1>
 <p align="center">
   <a href="https://github.com/ivalani/ivalani"><img src="https://readme-typing-svg.herokuapp.com?size=16&center=true&vCenter=true&width=480&lines=ITC+-+ITESM;Windows+%26+Linux+App+Developer;Cybersecurity+in+process"></a>
 </p>
 
 <!--! you can use the "counter viewers" by: https://github.com/antonkomarev/github-profile-views-counter -->  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivalani&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="ivalani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ivalani&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="ivalani" /> </p>
 
 <!--!nueva tipografia 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&width=435&lines=Web+Developer+;Programmer)](https://git.io/typing-svg)
 --> 
 
 
- # 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
 <!--! Individual stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivalani)](https://github.com/ivalani/github-readme-stats)
-
-Private: 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivalani&count_private=true) 
--->
 <!--! Theme context: viewers using a light or a dark GitHub theme (Stats and most used languajes --> 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ivalani&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ivalani/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ivalani&count_private=true&theme=transparent#gh-light-mode-only)](https://github.com/ivalani/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivalani&hide_progress=true&theme=transparent#gh-light-mode-only)](https://github.com/ivalani/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivalani&hide_progress=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ivalani/github-readme-stats#gh-dark-mode-only)
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ivalani&count_private=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ivalani/github-readme-stats#gh-dark-mode-only)    
+  [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ivalani&count_private=true&theme=transparent#gh-light-mode-only)](https://github.com/ivalani/github-readme-stats#gh-light-mode-only)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivalani&hide_progress=true&theme=transparent#gh-light-mode-only)](https://github.com/ivalani/github-readme-stats#gh-light-mode-only)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivalani&hide_progress=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/ivalani/github-readme-stats#gh-dark-mode-only)
 
 
 <!--! Coding activity per week 
@@ -50,7 +46,7 @@ If you want to add your stats to your profile or see more options, check this ou
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivalani&show_icons=true&locale=en" alt="anshtripathi079" /></p> -->
 <div>
 
->:mailbox_with_mail: &nbsp; contact me at:
+<h2> >:mailbox_with_mail: &nbsp; contact me at:  </h2>
 <p align="center">
   <a href="https://discord.com"><img alt="Discord" title="Mi Servidor" src="https://shields.io/badge/-DISCORD-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://itch.io"><img alt="Unity" title="Game" src="https://shields.io/badge/-Itch.io-black.svg?&style=for-the-badge&logo=unity&logoColor=white"></a>
